@@ -53,7 +53,7 @@ export async function DELETE(
     return NextResponse.json(server);
   } catch (error) {
     console.log("[CHANNEL_ID_DELETE]", error);
-    return new NextResponse("Erro", { status: 500 });
+    return new NextResponse("Error", { status: 500 });
   }
 }
 
