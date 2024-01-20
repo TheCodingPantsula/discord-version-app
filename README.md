@@ -1,6 +1,6 @@
 ## Overview
 
-This is a full-stack web app that mimics Discord, a chat and voice platform for gamers and communities. It also has team management features for collaboration and productivity.
+This is a full-stack web app that mimics Discord, a chat and voice platform for gamers and communities. It also has team management features for collaboration and productivity. The app is still being built and improved before it can deployed. I am really proud of this project and I want it to be added to my portfolio
 
 ## Technologies Used
 
@@ -23,3 +23,8 @@ Uploadthing: It allows users to upload and share images in the app. It also prov
 LiveKit: It allows users to join and create voice rooms in the app. It also provides audio and video quality and reliability features, such as noise cancellation, echo cancellation, and bandwidth estimation. I integrated it and used its UI components to render the audio and video tracks in the app.
 
 ## Demo
+
+
+
+https://github.com/smngvlkz/discord-version-app/assets/125494888/fc4d5ce6-43a8-48b4-8977-1d71ca276bdb
+
