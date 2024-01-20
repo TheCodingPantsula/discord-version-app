@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Overview
 
-## Getting Started
+This is a full-stack web app that mimics Discord, a chat and voice platform for gamers and communities. It also has team management features for collaboration and productivity.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js: A React framework for building fast and scalable web apps
+Clerk: A platform for authentication and user management
+Uploadthing: A platform for file uploading and processing
+LiveKit: A platform for real-time audio and video
+Challenges and Solutions
+I faced three main challenges while developing this app:
+Creating a secure and user-friendly authentication system
+Enabling users to upload and share images
+Enabling users to join and create voice rooms
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## I solved these challenges by using the following platforms:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Clerk: It offers various authentication methods, such as passwords, email codes, OAuth, and more. It also provides pre-built UI components for sign-in, sign-up, and user profile.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Uploadthing: It allows users to upload and share images in the app. It also provides image optimization and transformation features, such as resizing, cropping, and filtering. I integrated it and used its UI components to display the uploaded images in the app.
 
-## Learn More
+LiveKit: It allows users to join and create voice rooms in the app. It also provides audio and video quality and reliability features, such as noise cancellation, echo cancellation, and bandwidth estimation. I integrated it and used its UI components to render the audio and video tracks in the app.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Demo
