@@ -1,5 +1,5 @@
 ## Overview
-This full-stack web application designed to replicate Discord, a platform used for chat and voice communication among gamers and communities. The application also features team management capabilities that enhance collaboration and productivity. Currently, the app is still undergoing development and improvements before it can be deployed. I am proud of this project and I will include it in my portfolio site.
+This full-stack web application is designed to replicate Discord, a platform used for chat and voice communication among gamers and communities. The application also features team management capabilities that enhance collaboration and productivity. Currently, the app is still undergoing development and improvements before it can be deployed. I am proud of this project and I will include it in my portfolio site.
 
 ## Technologies Used
 The app was built using Next.js, a React framework that enables fast and scalable web application development. It also leverages Clerk, a platform that provides authentication and user management functionalities. Additionally, Uploadthing was used for file uploading and processing, while LiveKit was used for real-time audio and video communication.
