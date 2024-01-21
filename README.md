@@ -24,7 +24,11 @@ I deployed the app on Vercel. I configured the app to use environment variables 
 ## Demo
 
 Here's a small snippet of the app live and what it's capable off:
-https://github.com/smngvlkz/Discord-clone-app/assets/125494888/c47a5177-9d73-4abb-94ad-523af51315ae
+
+
+https://github.com/smngvlkz/Discord-clone-app/assets/125494888/98e3a02d-99e4-4689-a64b-f235111dc6db
+
+
 
 
 I have also included screenshots too of some features it has
@@ -42,5 +46,6 @@ More features below, like managing members, voice and video channels
 
 ![Screenshot 2024-01-21 113![Screenshot 2024-01-21 113854](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/8177f022-b07f-4cec-988c-cc7f60143158)
 536](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/2681ef68-c1f0-46cb-ab8c-ccb785f44a10)
-![Screenshot 2024-01-21 113704](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/fe687a0![Screenshot 2024-01-21 113752](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/f8ac27a4-fa82-44bb-9804-9f0ec9c8ba84)
+![Screenshot 2024-01-21 113704](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/fe687a0
+![Screenshot 2024-01-21 113752](https://github.com/smngvlkz/Discord-clone-app/assets/125494888/f8ac27a4-fa82-44bb-9804-9f0ec9c8ba84)
 e-a7d0-4b85-a4f2-2710149847fc)
