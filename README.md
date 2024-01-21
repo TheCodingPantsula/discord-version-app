@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Overview
+This is a full-stack web application designed to replicate Discord, a platform used for chat and voice communication among gamers and communities. The application also features team management capabilities that enhance collaboration and productivity. Currently, the app is still undergoing development and improvements before it can be deployed. I am proud of this project and would like to include it in my portfolio.
 
-## Getting Started
+## Technologies Used
+The app was built using Next.js, a React framework that enables fast and scalable web application development. It also leverages Clerk, a platform that provides authentication and user management functionalities. Additionally, Uploadthing was used for file uploading and processing, while LiveKit was used for real-time audio and video communication.
 
-First, run the development server:
+## Challenges and Solutions
+During the development of this application, I encountered three primary challenges, which I resolved using the following platforms:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Creating a secure and user-friendly authentication system: Clerk provided various authentication methods, including passwords, email codes, OAuth, and more. It also supplied pre-built UI components for sign-in, sign-up, and user profile.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Enabling users to upload and share images: Uploadthing enables users to upload and share images within the app. It also provides image optimization and transformation features, such as resizing, cropping, and filtering. I integrated it and used its UI components to display the uploaded images in the app.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Enabling users to join and create voice rooms: LiveKit allows users to join and create voice rooms within the app. It also provides audio and video quality and reliability features, such as noise cancellation, echo cancellation, and bandwidth estimation. I integrated it and used its UI components to render the audio and video tracks in the app.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Demo
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://github.com/smngvlkz/discord-version-app/assets/125494888/fc4d5ce6-43a8-48b4-8977-1d71ca276bdb
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
